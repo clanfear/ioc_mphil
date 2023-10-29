@@ -241,10 +241,6 @@ count: false
    + Physical deterioration
    + Percentage nonwhite
 
---
-
-* Tautology problem: *Causes and consequences social disorganization inseparable*
-
 
 ---
 ## Causes
