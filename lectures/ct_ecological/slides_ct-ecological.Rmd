@@ -48,6 +48,8 @@ Basic principle: Characteristics of the environment explain variation in crime n
 
 *Everything external to the individual with which they come into contact*
 
+--
+
 .pull-left[
 **Physical**
 
@@ -64,32 +66,43 @@ Basic principle: Characteristics of the environment explain variation in crime n
 .pull-right[
 **Social**
 
-* Social dynamics
-   * e.g., norms, cohesion, efficacy
+* Social structure
+   * e.g., norms, cohesion
 * Social activities
-   * e.g., monitoring, formal control
+   * e.g., monitoring, interventions
 * Presence of others
-   * e.g., bonds, informal control
+   * e.g., bonds, "eyes on the street"
 ]
 
 --
 Environmental concepts:
 
-* **Setting**: The environmen an individual perceives at a given moment
+* **Setting**: The immediate environment an individual can perceive at a given moment
 * **Activity field**: All the settings an individual experiences during some time of interest
+
 
 ---
 # Boudon—Coleman Boat
 
-Most ecological theories focus on environmental causes and aggregate outcomes, but crime happens in situations<br><br>
+Most ecological theories focus on environmental causes and aggregate outcomes (macro-level), but crime happens in situations (micro-level)
 
+--
+
+The **Coleman** boat or **Boudon-Coleman** boat is used to illustrate causal mechanisms (arrows) linking micro (e.g., individual) and macro (e.g., neighborhood) variables<br>
+
+![:width 90%](img/coleman-boat - general.svg)
+
+---
+# Boudon—Coleman Boat
+
+We can apply the boat to thinking about the role of the environment in causing crime:<br><br>
 
 ![:width 100%](img/coleman-boat.svg)
 
 
 .text-center[
 
-<br>*<strong>Mechanisms</strong> are important*
+<br>*Micro-macro <strong>mechanisms</strong> are important for ecological theories*
 
 ]
 
@@ -712,7 +725,7 @@ Ecological theories have largely failed to specify:
 
 &nbsp;
 
-![:width 100%](img/coleman-boat.svg)
+![:width 90%](img/coleman-boat - general.svg)
 
 ---
 # Micro-Macro Approaches
