@@ -95,14 +95,14 @@ The **Coleman** boat or **Boudon-Coleman** boat is used to illustrate causal mec
 ---
 # Boudon—Coleman Boat
 
-We can apply the boat to thinking about the role of the environment in causing crime:<br><br>
+We can apply the boat to the environment and crime:<br><br>
 
 ![:width 100%](img/coleman-boat.svg)
 
 
 .text-center[
 
-<br>*Micro-macro <strong>mechanisms</strong> are important for ecological theories*
+<br>*Micro-macro <strong>mechanisms</strong> are important for ecological theories—and must be compatible with basic facts about crime*
 
 ]
 
