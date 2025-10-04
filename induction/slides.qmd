@@ -1,0 +1,442 @@
+---
+author:
+  - name: Charles C. Lanfear
+title: Introduction to the MPhil programme
+subtitle: Institute of Criminology
+format:
+  revealjs:
+    theme: assets/ioc.scss
+    incremental: false
+    self-contained: false
+    width: 1200
+    height: 800
+    auto-stretch: true
+    title-slide-attributes:
+      data-background-image: img/ioc_entrance_narrow.jpg
+      data-background-position: bottom
+      data-background-size: contain
+filters: 
+  - assets/invert-h1.lua
+editor: source
+mouse-wheel: true
+history: false
+---
+
+```{r}
+#| label: "setup"
+#| include: false
+library(tidyverse)
+library(showtext)
+slide_font <- "EB Garamond"
+font_add_google(name = slide_font)
+showtext_auto()
+```
+
+
+
+
+## Key contacts {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+
+* Faith Payne & Emma Challis, Graduate Administrators
+   * [graduate.administrator@crim.cam.ac.uk](mailto:graduate.administrator@crim.cam.ac.uk)
+   * Please contact the Grad Admin in the first instance!
+
+* Dr Charles Lanfear (Chuck)
+   * MPhil Director
+
+* Your Academic Supervisor
+   * Assigned next week based on your dissertation ideas
+
+## {.dark-slide background-image="img/logo-light.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+
+:::: {.columns}
+::: {.center .column width="60%"}
+
+
+<h1><br>The MPhil Handbook is your friend!</h1>
+
+:::
+::: {.column width="40%"}
+
+![](img/handbook-cover.jpg)
+
+:::
+::::
+
+## Communications {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+
+::: {.incremental}
+
+* You will receive updates and reminders as well as critical programme information via your Cambridge (@cam) email account throughout the year. Please do check this **regularly.**  
+
+* Weekly MPhil Bulletin on what’s happening on the MPhil programme and around the Institute
+
+* **Moodle** Virtual Learning Environment
+   * Reading Lists, Teaching Timetables, course related Forms, and Lecture Handouts are posted on the MPhil Course Moodle page
+
+:::
+
+## MPhil Expectations {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+
+* Attend the core compulsory courses and two optional seminar courses
+
+::: {.fragment}
+* Five essays:
+   * Criminological Theories Essay (Michaelmas)
+   * Criminological Research Methods Portfolio:
+      * Part I: Research Design Exercise (Michaelmas)
+      * Part II: Analysis Exercise (Lent)
+   * Two Optional Course Essays (1 Michaelmas, 1 Lent)
+
+:::
+::: {.fragment}
+* One dissertation:
+   * Dissertation Presentation (Lent)
+   * Dissertation (15,000 and 18,000 words)
+
+:::
+
+## {.dark-slide background-image="img/logo-light.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+
+![](img/timetable-michaelmas.jpg)
+
+## {.dark-slide background-image="img/logo-light.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+
+![](img/timetable-lent.jpg)
+
+## Easter {.dark-slide background-image="img/logo-light.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+
+![](img/stress.jpg)
+
+
+## Optional Seminar Courses {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+
+:::: {.columns}
+::: {.column}
+
+**Michaelmas**
+
+* Global Perspectives on Violence
+* Sociology of Prison Life
+* Psychiatry and Criminal Justice
+
+:::
+:::{.column}
+
+**Lent**
+
+* People, Places and the Explanation of Crime
+* History of Violence
+* Policing
+* Socio-Critical Perspectives
+* Punishment and Mercy
+
+:::
+::::
+
+::: {.center}
+
+&nbsp;
+
+*You may attend more than two if you would like*
+
+:::
+
+## Academic and Research Skills Training {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+
+* Compulsory:
+   * Academic Skills Development Workshops (Michaelmas)
+   * Criminological Research Methods Workshops (Lent)
+   * Cambridge Research Methods (CaRM) and IQA
+
+* Optional:
+   * Doing Prison Research (Lent term, optional)
+
+
+# Cambridge Research Methods (CaRM)
+
+## CaRM Modules {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+
+Four modules across Michaelmas and Lent terms:
+
+* At least three quantitative modules
+   * In-house **Introduction to Quantitative Methods** is 2 units
+      * Replaces: *Foundations in Applied Statistics* and *Basic Quantitative Analysis*
+   * Many more; check their website!
+* One additional module---qualitative recommended
+* Each module is assessed independently, often on a pass/fail basis
+
+
+::: {.center}
+
+&nbsp;
+
+***Intro to R starts** on 10 AM Thursday in B3/B4*
+
+:::
+
+## CaRM Cancellations {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+
+> If you change your mind about attending a module for which you have booked a place, please cancel your booking **as soon as possible**. If a module is oversubscribed, cancelling an unwanted place will enable another student to attend. If you cancel giving two full working days’ notice, your department will not be charged for the module.
+
+## CaRM Skills Check {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+
+* Online multiple choice test to assess your competence in basic statistics
+* Results only used to determine which CaRM module you should book
+* *Not marked* and *does not count to toward the degree*
+
+## Other Opportunities {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+
+* Undergraduate paper
+   * Criminology, Sentencing and the Penal System (CSPS)
+* IoC seminars
+* Reading groups
+* Student Initiatives
+* Beyond the IoC
+  * Other departments
+   * Skill development activities
+
+## Attendance {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+
+&nbsp;
+
+> You are expected to attend in-person teaching and supervision activities unless you have grounds not to be (e.g. self-isolating, illness). Activities are normally recorded and the recording will be uploaded to the relevant course Moodle page. These live recordings will be deleted when students have had a sufficient chance to view them.
+
+## Attendance Required {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+
+* Criminological Theories
+* Criminological Research Methods
+* IQA
+* Optional courses
+   * To write an essay: 6 out of 8 seminars
+* Academic Skills Development Workshops
+* Criminological Research Methods Workshops
+* Dissertation Presentations
+
+
+
+## Student Residency Requirements {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+
+To meet the University residency requirement, and to qualify for a degree, all full-time graduate course students are required to be in residence in Cambridge for all three terms for the following minimum number of nights per term, between the dates listed below: 
+
+* 59 nights for Michaelmas Term (1 October to 19 December)
+* 59 nights for Lent Term (5 January to 25 March)
+* 52 nights for Easter Term (17 April to 25 June)
+
+::: {.aside}
+See: [https://www.cambridgestudents.cam.ac.uk/new-students/manage-your-student-information/graduate-students/terms-study](https://www.cambridgestudents.cam.ac.uk/new-students/manage-your-student-information/graduate-students/terms-study)
+:::
+
+## {.dark-slide background-image="img/logo-light.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+
+![MPhil Handbook, p. 9](img/handbook-time-away.jpg)
+
+## Supervision {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+
+* What does a supervisor do?
+   * Thesis advisor
+* How to get the most out of supervision:
+   * Communicate
+   * Prepare
+* Other sources of support
+   * Other Institute staff
+
+
+# The Dissertation
+
+## Dissertation {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+
+A high-quality dissertation involves either **reviewing** or **presenting evidence** and thinking in a precise manner, considering alternative arguments, and engaging in critical debate.
+
+* **Reviewing evidence**: Normally library-based
+* **Presenting evidence**: Original empirical work^[Including using secondary data]
+
+::: {.center}
+
+&nbsp;
+
+*Empirical research is challenging in a 10 month program. Work with your supervisor to develop a feasible research design.*
+
+:::
+
+## Dissertation Timeline {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+
+:::: {.columns}
+
+::: {.column width="33%"}
+
+**Oct--Dec**
+
+* Consider topics
+* Engage literature
+* Ethics
+* Submit draft abstract
+
+:::
+
+::: {.column width="33%"}
+
+**Jan--Mar**
+
+* Final title/abstract<br>(27 Jan)
+* Presentation
+* Review lit
+* Map out dissertation
+* Prepare/begin data collection
+
+:::
+
+::: {.column width="33%"}
+
+**Apr--June**
+
+* Collect data
+* Analyze data
+* Write it up
+* Submit draft to supervisor<br>(1 Jun)
+* Submit dissertation<br>(1 Jul)
+
+:::
+
+::::
+
+## Dissertation Presentation {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+
+* Lent term
+* Open to others in the Institute
+* Examined on a pass or fail basis
+   * Pass in the first instance = 75%
+   * Pass in the second instance = 60%
+   * Fail in the second instance = 40%
+
+## Assignments {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+
+* You will have the opportunity to write a Practice essay (1500 words) and receive feedback from your supervisor
+* There is detailed guidance on how to write an essay and how to submit your essay in the **MPhil Handbook**
+* Additional information provided in Academic Skills Development Workshops
+
+## Research Ethics {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+
+* Read carefully the Handbook pp. 58--59 for details of the process regarding Ethics and Risk Assessment 
+* If in doubt, ask the Graduate Administrator or your supervisor
+* Compulsory seminar on risk assessment scheduled for tomorrow
+* Compulsory seminar on research ethics in ASDW
+
+## Referencing {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+
+* All assignments should have a separate reference list
+   * Not included in word count
+   * Footnotes *are* included however
+* Referencing software, e.g., **Zotero**, EndNote, Mendeley
+   * Zotero workshop next week
+* No required reference style
+   * Common styles: APA, MHRA, Harvard
+
+## Turnitin {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+
+> Turnitin compares the text of submitted work to sources in its database, which is made up of internet content, selected journals, and previous student submissions. The software then provides an originality report, which identifies the extent of matched text by highlighting the matches and providing an overall percentage match. Reports will be scrutinised by an academic member of staff, who will review the report to determine whether the matches may indicate wider concerns around poor scholarly technique or an attempt to gain unfair advantage, and whether any further action should be taken.
+
+## Generative AI {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+
+> We also carry out checks to identify the use of Generative AI in writing essays. A student using any unacknowledged content generated by artificial intelligence (e.g. ChatGPT) within a summative assessment, as though it is their own work, constitutes **academic misconduct**. When submitting your assignments and dissertation you will be required to confirm on your essay and dissertation submission forms what, if any, AI programmes you used in your writing process and how they were used.
+
+
+::: {.center}
+
+&nbsp;
+
+*More on this on tomorrow*
+
+:::
+
+## Late Submissions {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+
+* Extensions
+   * Only in exceptional circumstances
+   * For essays and exercises a maximum extension of 10 days will be considered, and for a dissertation 30 days. Beyond this, the recommendation is to **intermit**.
+   * Details in the handbook; supervisor is primary contact
+
+* Late penalties
+   * Up to three points per day
+
+## Examination {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+
+* You must pass all units with a 60 or above
+* Marginal fail (57-59)
+   * Oral examination likely if marginal fail and other key units of assessment below 68
+* Distinction &#8805; 75% overall
+
+# Surviving the MPhil
+
+## Tips {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+
+:::: {.columns}
+
+
+::: {.column}
+
+**Organization & efficiency**
+
+* Prioritize tasks
+  * Think, read, plan, write
+  * Use a calendar
+* Start early
+* Get advice
+* Know yourself
+
+:::
+
+::: {.column}
+
+**Look after yourself**
+
+* Eat healthy, stay active, and **sleep**
+* Explore, try new things, and have fun!
+* Stay in touch with friends and family
+   
+:::
+
+::::
+
+
+
+## Support {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+
+:::: {.columns}
+::: {.column}
+
+* Graduate Administrators
+* Your supervisor
+* College Tutor: a key pastoral role
+* Accessibility and Disability Resource Centre (ADRC)
+* Mental Health Advice Service
+
+:::
+
+::: {.column}
+
+* University Counselling Service
+* Harassment and Violence Support Service
+* Language Centre
+* International Student Team
+
+:::
+::::
+
+## If Problems Arise {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+
+* Your supervisor
+* Director of MPhil Programmes:
+   * Dr Charles Lanfear
+* Director of the Institute of Criminology:
+   * Professor Manuel Eisner
+* Graduate Tutor at your college
+
+## Have a Great Year! {.dark-slide background-image="img/logo-light.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+
+* Make the most of the MPhil programme
+   * Challenge yourself!
+* Make the most of the University
+   * Broaden your horizons!
+* Make the most of Cambridge
+   * Get out and about!
