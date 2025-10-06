@@ -67,7 +67,7 @@ showtext_auto()
 
 ::: {.incremental}
 
-* You will receive updates and reminders as well as critical programme information via your Cambridge (@cam) email account throughout the year. Please do check this **regularly.**  
+* You will receive updates and reminders as well as critical programme information via your Cambridge (@cam.ac.uk) email account throughout the year. Please do check this **regularly.**  
 
 * Weekly MPhil Bulletin on what’s happening on the MPhil programme and around the Institute
 
@@ -104,7 +104,7 @@ showtext_auto()
 
 ![](img/timetable-lent.jpg)
 
-## Easter {.dark-slide background-image="img/logo-light.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+## Easter Term {.dark-slide background-image="img/logo-light.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
 
 ![](img/stress.jpg)
 
@@ -138,33 +138,56 @@ showtext_auto()
 
 &nbsp;
 
-*You may attend more than two if you would like*
+*At least one required per term, but you may attend more if you want*
 
 :::
 
 ## Academic and Research Skills Training {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
 
-* Compulsory:
-   * Academic Skills Development Workshops (Michaelmas)
-   * Criminological Research Methods Workshops (Lent)
-   * Cambridge Research Methods (CaRM) and IQA
+:::: {.columns}
+::: {.column}
 
-* Optional:
-   * Doing Prison Research (Lent term, optional)
+**Michaelmas**
+
+* Introduction to Quantitative Analysis
+* Academic Skills Development Workshops
+* **CaRM Modules**
+
+:::
+:::{.column}
+
+**Lent**
+
+* Criminological Research Methods Workshops
+* Doing Prison Research (optional)
+* **CaRM Modules**
+
+:::
+::::
+
+::: {.center}
+
+&nbsp;
+
+*At least two CaRM Modules are required, but you may attend more if you want*
+
+:::
 
 
 # Cambridge Research Methods (CaRM)
 
 ## CaRM Modules {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
 
-Four modules across Michaelmas and Lent terms:
+* Many offerings available!
+   * At least one qualitative unit recommended
+   * **Skills check** to inform quant unit bookings
 
-* At least three quantitative modules
-   * In-house **Introduction to Quantitative Methods** is 2 units
-      * Replaces: *Foundations in Applied Statistics* and *Basic Quantitative Analysis*
-   * Many more; check their website!
-* One additional module---qualitative recommended
-* Each module is assessed independently, often on a pass/fail basis
+* **Introduction to Quantitative Methods** equivalent to:
+   * *Foundations in Applied Statistics*
+   * *Basic Quantitative Analysis*
+   * *Introduction to R*
+
+* Each module is assessed independently (usually pass/fail)
 
 
 ::: {.center}
@@ -175,9 +198,6 @@ Four modules across Michaelmas and Lent terms:
 
 :::
 
-## CaRM Cancellations {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
-
-> If you change your mind about attending a module for which you have booked a place, please cancel your booking **as soon as possible**. If a module is oversubscribed, cancelling an unwanted place will enable another student to attend. If you cancel giving two full working days’ notice, your department will not be charged for the module.
 
 ## CaRM Skills Check {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
 
@@ -185,24 +205,40 @@ Four modules across Michaelmas and Lent terms:
 * Results only used to determine which CaRM module you should book
 * *Not marked* and *does not count to toward the degree*
 
+## CaRM Cancellations {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+
+> If you change your mind about attending a module for which you have booked a place, please cancel your booking **as soon as possible**. If a module is oversubscribed, cancelling an unwanted place will enable another student to attend. If you cancel giving two full working days’ notice, your department will not be charged for the module.
+
+
+
 ## Other Opportunities {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
 
 * Undergraduate paper
    * Criminology, Sentencing and the Penal System (CSPS)
 * IoC seminars
-* Reading groups
-* Student Initiatives
+* Student Initiatives (see Handbook pp 56--57)
+   * Reading groups
+   * Conferences
 * Beyond the IoC
-  * Other departments
+   * Other departments
    * Skill development activities
 
-## Attendance {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+## Attendance is Mandatory {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
 
 &nbsp;
 
 > You are expected to attend in-person teaching and supervision activities unless you have grounds not to be (e.g. self-isolating, illness). Activities are normally recorded and the recording will be uploaded to the relevant course Moodle page. These live recordings will be deleted when students have had a sufficient chance to view them.
 
-## Attendance Required {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+
+::: {.center}
+
+&nbsp;
+
+*Attendance is checked via QR codes scanned as you enter class*
+
+:::
+
+## Mandatory Courses {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
 
 * Criminological Theories
 * Criminological Research Methods
@@ -233,11 +269,15 @@ See: [https://www.cambridgestudents.cam.ac.uk/new-students/manage-your-student-i
 
 ## Supervision {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
 
-* What does a supervisor do?
-   * Thesis advisor
+* Your supervisor
+   * General and subject advice
+   * Routine meetings
+   * Dissertation guidance & feedback
+* Thesis advisor (optional)
+   * Subject advice
 * How to get the most out of supervision:
-   * Communicate
-   * Prepare
+   * **Communicate**
+   * Come prepared to meetings
 * Other sources of support
    * Other Institute staff
 
@@ -315,19 +355,21 @@ A high-quality dissertation involves either **reviewing** or **presenting eviden
 * There is detailed guidance on how to write an essay and how to submit your essay in the **MPhil Handbook**
 * Additional information provided in Academic Skills Development Workshops
 
-## Research Ethics {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+## Research Ethics and Risk {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
 
-* Read carefully the Handbook pp. 58--59 for details of the process regarding Ethics and Risk Assessment 
-* If in doubt, ask the Graduate Administrator or your supervisor
-* Compulsory seminar on risk assessment scheduled for tomorrow
-* Compulsory seminar on research ethics in ASDW
+* Read carefully the **Handbook** pp. 35--37 for details of the process regarding Ethics and Risk Assessment 
+* Ask the Graduate Administrator or your supervisor
+* Seminars:
+   * Risk assessment scheduled for tomorrow
+   * Research ethics in ASDW
+   * Sometimes optional special topics
 
 ## Referencing {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
 
 * All assignments should have a separate reference list
    * Not included in word count
    * Footnotes *are* included however
-* Referencing software, e.g., **Zotero**, EndNote, Mendeley
+* Use referencing software, e.g., **Zotero**, EndNote, Mendeley
    * Zotero workshop next week
 * No required reference style
    * Common styles: APA, MHRA, Harvard
@@ -338,8 +380,9 @@ A high-quality dissertation involves either **reviewing** or **presenting eviden
 
 ## Generative AI {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
 
-> We also carry out checks to identify the use of Generative AI in writing essays. A student using any unacknowledged content generated by artificial intelligence (e.g. ChatGPT) within a summative assessment, as though it is their own work, constitutes **academic misconduct**. When submitting your assignments and dissertation you will be required to confirm on your essay and dissertation submission forms what, if any, AI programmes you used in your writing process and how they were used.
+> We also carry out checks to identify the use of Generative AI in writing essays. A student using any unacknowledged content generated by artificial intelligence or other software (e.g. ChatGPT, Grammarly) within a summative assessment, as though it is their own work, constitutes **academic misconduct**. When submitting your assignments and dissertation you will be required to confirm on your essay and dissertation submission forms what, if any, AI programmes or similar tools you used in your writing process and how they were used.
 
+See MPhil Handbook, pp. 12--14
 
 ::: {.center}
 
@@ -361,12 +404,13 @@ A high-quality dissertation involves either **reviewing** or **presenting eviden
 
 ## Examination {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
 
-* You must pass all units with a 60 or above
+* You must pass **all units** with a 60 or above
 * Marginal fail (57-59)
    * Oral examination likely if marginal fail and other key units of assessment below 68
 * Distinction &#8805; 75% overall
 
-# Surviving the MPhil
+# Surviving the MPhil 
+
 
 ## Tips {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
 
