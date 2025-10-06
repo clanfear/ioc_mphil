@@ -35,7 +35,7 @@ showtext_auto()
 
 
 
-## Key contacts {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+## Key Contacts {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
 
 * Faith Payne & Emma Challis, Graduate Administrators
    * [graduate.administrator@crim.cam.ac.uk](mailto:graduate.administrator@crim.cam.ac.uk)
@@ -65,10 +65,11 @@ showtext_auto()
 
 ## Communications {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
 
-::: {.incremental}
+
 
 * You will receive updates and reminders as well as critical programme information via your Cambridge (@cam.ac.uk) email account throughout the year. Please do check this **regularly.**  
 
+::: {.incremental}
 * Weekly MPhil Bulletin on what’s happening on the MPhil programme and around the Institute
 
 * **Moodle** Virtual Learning Environment
@@ -121,7 +122,7 @@ showtext_auto()
 * Psychiatry and Criminal Justice
 
 :::
-:::{.column}
+:::{.column .fragment}
 
 **Lent**
 
@@ -154,7 +155,7 @@ showtext_auto()
 * **CaRM Modules**
 
 :::
-:::{.column}
+:::{.column .fragment}
 
 **Lent**
 
@@ -314,7 +315,7 @@ A high-quality dissertation involves either **reviewing** or **presenting eviden
 
 :::
 
-::: {.column width="33%"}
+::: {.fragment .column width="33%"}
 
 **Jan--Mar**
 
@@ -326,7 +327,7 @@ A high-quality dissertation involves either **reviewing** or **presenting eviden
 
 :::
 
-::: {.column width="33%"}
+::: {.fragment .column width="33%"}
 
 **Apr--June**
 
