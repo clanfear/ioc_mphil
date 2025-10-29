@@ -21,8 +21,35 @@ library(tidyverse)
 ```
 
 
+class: inverse
+
+# Questions
 
 
+&nbsp;
+
+--
+
+Have you ever committed a crime (however minor) and why?<sup>1</sup>
+
+&nbsp;
+
+.footnote[[1] Though do exercise some discretion *wrt* self-incrimination]
+
+--
+
+How do we prevent crime?
+
+*Can we prevent crime?*
+
+&nbsp;
+
+--
+
+What is the role of fairness in preventing crime?
+
+
+---
 
 # Classic Deterrence
 
@@ -160,6 +187,8 @@ Deterrence is simply the idea that punishment can impact crime.
 Weaker rational actor assumptions than classical school:
 
 * In **aggregate**, individuals act rationally
+
+   * i.e., mistakes average out
 ]
 .pull-right-30[
 ![](img/cornish_clarke.jpg)
@@ -184,8 +213,10 @@ Deterrence is simply the idea that punishment can impact crime.
 Weaker rational actor assumptions than classical school:
 
 * In **aggregate**, individuals act rationally
+   * i.e., mistakes average out
 
 * At **margin**, individuals act rationally
+   * i.e., sensitive to incremental change
 ]
 .pull-right-30[
 ![](img/cornish_clarke.jpg)
@@ -211,8 +242,10 @@ Deterrence is simply the idea that punishment can impact crime.
 Weaker rational actor assumptions than classical school:
 
 * In **aggregate**, individuals act rationally
+   * i.e., mistakes average out
 
 * At **margin**, individuals act rationally
+   * i.e., sensitive to incremental change
 ]
 .pull-right-30[
 ![](img/cornish_clarke.jpg)
@@ -243,8 +276,8 @@ class: inverse
 * **Marginal Deterrence**
 
    + Deterrent effect of a *penalty* compared to a *different penalty*
-   + *Does the death penalty reduce more crime than life sentences?*
-   + Most research is focused here—evidence is mixed
+   + *Does a 5 year sentence reduce more crime than a 4 year one?*
+   + Most research is focused here—*evidence is mixed*
 
 ???
 
@@ -258,7 +291,7 @@ This is if increasing or decreasing penalties increases or decreases behavior.
 
    + Deterrent effect of a *penalty* compared to *no penalty*
    + *Will decriminalizing drugs result in more drug use?*
-   + Less research here, but evidence is fairly strong for some crimes
+   + Less research here, but evidence is *fairly strong* for some crimes
 
 ???
 
@@ -429,6 +462,32 @@ Research like Piliavin et al. finds better support for rational responses to rew
 
 This may be due to low certainty of sanctions, but high certainty of gains; most people get away with a lot before they're caught!
 
+
+---
+
+# Rationality
+
+**Thin**: Consistent preferences
+
+* Completeness
+   * Can compare all alternatives
+* Transitivity
+
+--
+
+**Thick**: Substantive values
+
+* e.g., self-interest<sup>1</sup>
+
+.footnote[[1] In this sense crim rat choice is *hella thicc*]
+
+--
+
+&nbsp;
+
+.center[
+*Typically mute about the source of preferences*
+]
 
 ---
 # Formalization
@@ -930,7 +989,7 @@ count:false
 [1] It is often combined with rational choice to form a multi-level theory, e.g., Clarke & Felson (1993)
 ]
 
-Convergence mechanism is non-falsifiable
+Convergence is non-falsifiable postulate
 
 * If a crime occurred, there *must* have been a convergence
    * e.g., anyone present wasn't a "capable guardian"
@@ -939,10 +998,9 @@ Convergence mechanism is non-falsifiable
 
 --
 
-.text-center[
-*Still, it is parsimonious and useful for thinking about crime rates*
+.center[
+*What else?*
 ]
-
 
 ---
 class: inverse
@@ -952,19 +1010,37 @@ class: inverse
 ---
 class: inverse
 
+# Questions
+
+&nbsp;
+
+* What does deterrence or rational choice neglect?
+
+&nbsp;
+
+* What would be evidence *against* rational choice?
+
+&nbsp;
+
+* What do you think about routine activity's ecological metaphor?
+
+&nbsp;
+
+* How might these theories steer policy wrong (or right)?
+
+---
+class: inverse
+
 # Wrap-Up
 
 * Deterrence is deeply embedded in the justice system
 
-   * Derived from enlightenment principles of justice
-   * Focuses on main factors justice system can control
-       * Increasing **certainty** can be very effective
-       * Increasing **severity** is typically inefficient
-
 * Rational choice is a simple, broadly applicable theory of behaviour
 
-   * **Perceived** cost and benefit are key
-   * Rarity of punishment means gains often dominate decisions
-   * Not always realistic—but can be useful approximation
-
 * Motivation and decision-making are only one element of crime
+
+* **What do you want Monday to look like?**
+
+   * How much lecture?
+   * What kind of focus?
+   * Groups? Discussion?
