@@ -98,6 +98,17 @@ Basic principle: Characteristics of the environment explain variation in crime n
    * e.g., bonds, "eyes on the street"
 ]
 
+--
+
+.text-center[
+*Classical ecology and situational opportunity perspectives emphasise different elements*
+]
+
+
+---
+# Two Streams
+
+![](img/two_streams.svg)
 
 ---
 # Boudon—Coleman Boat
@@ -949,7 +960,7 @@ class: inverse
 
 # Classical Crime Ecology
 
-### The social cntrol perspective
+### The social control perspective
 
 &nbsp;
 
