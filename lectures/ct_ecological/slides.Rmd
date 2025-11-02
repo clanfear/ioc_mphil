@@ -900,7 +900,12 @@ class: inverse
 
 &nbsp;
 
-.image-90[
+
+.image-75[
+![](img/lanfear-sampson_cynicism-trust.png)
+]
+
+.image-75[
 ![](img/lanfear-sampson_gun-carrying.png)
 ]
 
