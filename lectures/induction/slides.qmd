@@ -223,7 +223,7 @@ showtext_auto()
 
 &nbsp;
 
-***Intro to R starts** on 10 AM Thursday in B3/B4*
+***Intro to R starts** on 10 AM Thursday in B3/B4; bring a **laptop***
 
 :::
 
