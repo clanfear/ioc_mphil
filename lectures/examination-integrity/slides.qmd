@@ -75,9 +75,12 @@ showtext_auto()
 
 **External examiners**
 
-* Review samples of essays and dissertations for:
-   1. Soundness and fairness of process
-   2. Consistency and appropriateness of marking
+* Sample focuses on:
+   * Particularly high and low
+   * Divergent initial marks
+* Review for:
+   * Soundness and fairness of process
+   * Consistency and appropriateness of marking
 * Can only advise, not change marks
 
 :::
