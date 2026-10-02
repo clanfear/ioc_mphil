@@ -487,6 +487,7 @@ See MPhil Handbook
 
 **Look after yourself**
 
+* Anxiety and overload are normal
 * Eat healthy, stay active, and **sleep**
    * *Beware the darkness*
 * Explore, try new things, and have fun!
@@ -496,6 +497,7 @@ See MPhil Handbook
 
 ::::
 
+# You belong here
 
 
 ## Support {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
