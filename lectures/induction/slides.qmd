@@ -168,7 +168,6 @@ showtext_auto()
 
 * Introduction to Quantitative Analysis (semi-optional)
 * Academic Skills Development Workshops
-* **CaRM Modules**
 
 :::
 :::{.column .fragment}
@@ -177,53 +176,61 @@ showtext_auto()
 
 * Criminological Research Methods Workshops
 * Doing Prison Research (optional)
-* **CaRM Modules**
 
 :::
 ::::
 
-::: {.center}
-
-&nbsp;
-
-*At least two CaRM Modules are required, but you may attend more if you want*
-
-&nbsp;
-
-*You must attend either IQA **or** CaRM's FiAS + BQA*
-
-:::
-
-
-# Cambridge research methods (CaRM)
-
-## CaRM modules {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
-
 ::: {.fragment}
-* Many offerings available!
-   * At least one qualitative unit recommended
-   * **Skills check** to inform quant unit bookings
 
-:::
+**CaRM modules** available in *all terms*
 
-::: {.fragment}
-* **Introduction to Quantitative Methods** covers:
-   * *Foundations in Applied Statistics*
-   * *Basic Quantitative Analysis*
-   * *Introduction to R*
-
-:::
-
-::: {.fragment}
+* At least two *required* but take as many as you want
 * Each module is assessed independently (usually pass/fail)
+* **Skills check** to inform quant unit bookings
 
 :::
 
-::: {.center .fragment}
+## Two quantitative tracks {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
 
 &nbsp;
 
-***Intro to R starts** on 10 AM Thursday in B3/B4; bring a **laptop***
+::::: {.columns}
+
+:::: {.column width="48%"}
+
+**Less advanced** (CaRM only)
+
+* Foundations in Applied Statistics (FiAS)
+* Basic Quantitative Analysis (BQA)
+
+
+::::
+
+:::: {.column width="4%"}
+
+&nbsp;
+
+::::
+
+:::: {.column width="48%"}
+
+**More advanced** (In-house)
+
+* Introduction to Quantitative Analysis (IQA)
+* Any two CaRM units
+
+::::
+
+:::::
+
+&nbsp;
+
+::: {.fragment}
+
+For those taking IQA:
+
+* **Intro to R starts** on 10 AM Thursday in B3/B4; bring a **laptop**
+* Install R and RStudio, see [http://clanfear.github.io/ioc_iqa/](http://clanfear.github.io/ioc_iqa/)
 
 :::
 
@@ -288,6 +295,8 @@ showtext_auto()
 
 ## Student residency requirements {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
 
+&nbsp;
+
 To meet the University residency requirement, and to qualify for a degree, all full-time graduate course students are required to be in residence in Cambridge for all three terms for the following minimum number of nights per term, between the dates listed below: 
 
 * 59 nights for Michaelmas Term (1 October to 19 December)
@@ -314,7 +323,7 @@ See: [https://www.cambridgestudents.cam.ac.uk/new-students/manage-your-student-i
    * Other Institute staff
 
 
-# The dissertation
+# The dissertation {.dark-slide background-image="img/logo-light.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
 
 ## Dissertation {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
 
@@ -462,13 +471,14 @@ See MPhil Handbook
 
 :::
 
-# Surviving the MPhil 
+# Surviving the MPhil  {.dark-slide background-image="img/logo-light.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
 
 
 ## Tips {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
 
-:::: {.columns}
+&nbsp;
 
+:::: {.columns}
 
 ::: {.column}
 
@@ -497,10 +507,12 @@ See MPhil Handbook
 
 ::::
 
-# You belong here
+# You belong here {.dark-slide background-image="img/logo-light.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
 
 
 ## Support {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+
+&nbsp;
 
 :::: {.columns}
 ::: {.column}
@@ -524,6 +536,8 @@ See MPhil Handbook
 ::::
 
 ## If problems arise {background-image="img/logo-dark.svg" background-size="auto 60px" background-position="right 15px bottom 15px"}
+
+&nbsp;
 
 * Your supervisor
 * Director of MPhil Programmes:
